@@ -1,0 +1,8 @@
+50_speakers:
+https://www.kaggle.com/datasets/vjcalling/speaker-recognition-audio-dataset?resource=download
+
+LibriSpeech (train-clean-360):
+https://www.openslr.org/12
+
+TIMIT:
+https://www.kaggle.com/datasets/mfekadu/darpa-timit-acousticphonetic-continuous-speech
