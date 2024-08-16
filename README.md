@@ -26,6 +26,7 @@ This repository contains the code and results for my Master's thesis, which focu
   
 ![image](https://github.com/user-attachments/assets/9a161b66-c64c-4788-a387-8477e2faaade)
 ![image](https://github.com/user-attachments/assets/cf249a58-0fe6-4ac5-b984-2078d131d1f3)
+![image](https://github.com/user-attachments/assets/1f16df1d-9753-444e-94c6-6692bbfa6b93)
 
 **Results**
 
